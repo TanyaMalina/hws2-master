@@ -1,7 +1,16 @@
 .container {
+    width: 100%;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
 }
 
 .wrapper {
+    display: flex;
+    gap: 2%;
+    align-items: center;
+    width: 100%;
 }
 
 .number {
