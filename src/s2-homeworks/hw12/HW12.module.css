@@ -19,5 +19,7 @@ html {
 }
 
 .select {
-
+    margin-top: 5px;
+    width: 150px;
+    padding: 5px 5px;
 }
